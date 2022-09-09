@@ -1,0 +1,73 @@
+body{
+  background-color: purple;
+}
+
+h2{
+  color: white;
+  font-size: 34px;
+}
+
+td{
+  font-size: 34px;
+}
+
+p{
+  font-size: 34px;
+  color: white;
+}
+
+table#ej1{
+  margin-top: -28px;
+}
+
+td#fila1{
+  background-color: orange;
+}
+
+td#fila2{
+  background-color: #6495ED;
+  text-align: right;
+}
+
+td#fila3{
+  background-color: seagreen;
+}
+
+table#fila1{
+  background-color: orange;
+  margin-top: -28px;
+  border-style: outset;
+}
+
+table#fila2{
+  background-color: #6495ED;
+  text-align: right;
+}
+
+table#fila3{
+  background-color: seagreen;
+}
+
+div.medida{
+  height: 34px;
+  display: flex;
+  align-items: center;
+}
+
+div#fila1{
+  background-color: orange;
+  margin-top: -28px;
+  border: 1px solid black;
+}
+
+div#fila2{
+  background-color: #6495ED;
+  border: 1px solid black;
+  justify-content: flex-end;
+}
+
+div#fila3{
+  background-color: seagreen;
+  border: 1px solid black;
+  display: flex;
+}
